@@ -1,6 +1,6 @@
 {
   "name": "my-fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "There are many coding fonts out there. Among them, these fonts are my absolute favorites ones. I highly recommend buying the premium ones.",
   "scripts": {
     "release": "bumping"
